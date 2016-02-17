@@ -3,7 +3,7 @@ slick
 
 [1]: <https://github.com/kenwheeler/slick>
 
-_the last carousel you'll ever need_
+_the last carousel you'll ever need - I promise_
 
 #### Demo
 
@@ -116,7 +116,7 @@ You can use it like so:
 
 ```
 $(".slider").slick({
-  
+
   // normal options...
   infinite: false,
 
@@ -236,7 +236,7 @@ $(element).slick({
   speed: 500
 });
  ```
- 
+
 Change the speed with:
 
 ```javascript
